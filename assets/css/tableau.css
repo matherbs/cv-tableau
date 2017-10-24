@@ -1,0 +1,14 @@
+#maintable {
+  width: 1820px;
+  margin-left: 50px;
+  margin-top: 50px;
+  border: 2px solid red;
+}
+
+td {
+  border: 2px solid green;
+}
+
+#maintr {
+  vertical-align: top;
+}
